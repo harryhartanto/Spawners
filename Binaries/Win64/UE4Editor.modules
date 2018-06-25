@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3224400,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "0566acab-26b2-479a-a2a8-4e5c560c825f",
+	"Modules" : 
+	{
+		"StreamlineSpawners" : "UE4Editor-StreamlineSpawners-2184.dll"
+	}
+}
